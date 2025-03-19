@@ -104,4 +104,4 @@ ParkinsonNet is a deep learning-based application that detects Parkinson’s dis
 ### **4. Exit Application**  
 - Click **"Exit"** to close the program.  
 
-## **Project Structure**  
+
